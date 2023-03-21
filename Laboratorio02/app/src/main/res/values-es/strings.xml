@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">Laboratorio02</string>
+        <string name="bmi_text">imc</string>
+        <string name="weight_label">Peso</string>
+        <string name="weight_hint">70</string>
+        <string name="kg_label">Kg</string>
+        <string name="height_label">Altura</string>
+        <string name="height_hint">180</string>
+        <string name="cm_label">cm</string>
+        <string name="button_text">CALCULAR</string>
+        <string name="Underweight">Bajo peso</string>
+        <string name="Healthy">Saludable</string>
+        <string name="Overweight">Sobrepeso</string>
+        <string name="Obese">Obeso</string>
+        <string name="Range">El rango normal es 18.5 – 24.9</string>
+
+</resources>

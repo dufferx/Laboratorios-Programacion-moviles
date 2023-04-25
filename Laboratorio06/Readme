@@ -1,0 +1,9 @@
+1. ¿En qué consiste el patrón de diseño Repository?
+
+Este es un patrón de diseño aisla la capa de datos del resto de la aplicación. Dicha capa hace referencia a la parte que controla los datos y la lógica empresarial, separando los componentes visuales, lo que expone APIs coherentes de modo que el resto de la aplicación acceda a esos datos.
+
+
+2. ¿Qué es el ViewModel?
+
+Es una lógica empresarial o un contenedor de estado a nivel de pantalla que expone el estado a la IU y encapsula la lógica empresarial relacionada. 
+
